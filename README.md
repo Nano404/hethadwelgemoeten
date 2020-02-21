@@ -1,4 +1,3 @@
 # hethadwelgemoeten
-Eigenlijk had dat wel gemoeten
 
-Scripts om te gebruiken voor later
+Scripts om ff snel marbus zijn machines te installeren omdat hij geen nuttige opdrachten geeft
