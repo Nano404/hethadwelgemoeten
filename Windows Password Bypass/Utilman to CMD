@@ -7,5 +7,3 @@ copy D:\Windows\System32\cmd.exe D:\Windows\System32\utilman.exe
 copy X:\Sources\admin.bat D:\run.bat
 
 wpeutil reboot
-
-Pause
