@@ -3,7 +3,7 @@
 #
 Install-WindowsFeature –Name AD-Domain-Services -IncludeManagementTools
 Install-ADDSForest `
--DomainName "Amerijck" `
+-DomainName "amerijck.net" `
 -CreateDnsDelegation:$false `
 -DatabasePath "C:\AD_DS\NTDS" `
 -DomainMode "WinThreshold" `
